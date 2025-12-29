@@ -1,0 +1,22 @@
+{
+  "basics": {
+    "name": "Meet Rathod",
+    "label": "Full Stack Blockchain Engineer",
+    "title": "Full Stack Blockchain Engineer | Rust, Move, Aptos Developer",
+    "email": "mrathod05@outlook.com",
+    "phone": "+91 9265535978",
+    "location": "Ahmedabad, India",
+    "website": "https://meetrathoddeveloper.netlify.app",
+    "bio": "Evolving from MERN stack developer to Full Stack Blockchain Engineer, I architect high-performance decentralized applications using Rust, Move programming, Aptos, and Solana ecosystems."
+  },
+  "socials": {
+    "github": "https://github.com/mrathod05",
+    "linkedin": "https://linkedin.com/in/themeetrathod",
+    "twitter": "https://x.com/mrathod0507",
+    "mail": "https://mail.google.com/mail/u/0/?fs=1&to=mrathod05@outlook.com&tf=cm"
+  },
+  "assets": {
+    "logo": "https://cdn.jsdelivr.net/gh/mrathod05/global-assets@main/images/logo.jpg",
+    "resume": "https://cdn.jsdelivr.net/gh/mrathod05/global-assets@main/meet_rathod_resume.pdf"
+  }
+}
